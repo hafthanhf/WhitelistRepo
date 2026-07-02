@@ -1,9 +1,2 @@
 Test file 03
 This is test file only
-the file will be used in upload testing task.
-This is test file only
-the file will be used in upload testing task.
-This is test file only
-the file will be used in upload testing task.
-This is test file only
-the file will be used in upload testing task.
